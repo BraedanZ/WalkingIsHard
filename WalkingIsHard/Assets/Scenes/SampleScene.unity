@@ -230,7 +230,7 @@ Transform:
   m_LocalScale: {x: 1, y: 11.949, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.942}
 --- !u!1 &30471640
 GameObject:
@@ -245,7 +245,7 @@ GameObject:
   - component: {fileID: 30471642}
   - component: {fileID: 30471645}
   - component: {fileID: 30471644}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RQuad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -274,7 +274,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 30471640}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -448,7 +448,7 @@ GameObject:
   - component: {fileID: 430704143}
   - component: {fileID: 430704142}
   - component: {fileID: 430704141}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LFoot
   m_TagString: LFoot
   m_Icon: {fileID: 0}
@@ -583,7 +583,7 @@ Transform:
   m_LocalScale: {x: 0.30000004, y: 0.037500005, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -682,7 +682,7 @@ GameObject:
   - component: {fileID: 710902878}
   - component: {fileID: 710902877}
   - component: {fileID: 710902876}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -836,7 +836,7 @@ Transform:
   m_LocalScale: {x: 0.4591, y: 0.1556, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1060657082
 GameObject:
@@ -850,7 +850,7 @@ GameObject:
   - component: {fileID: 1060657085}
   - component: {fileID: 1060657084}
   - component: {fileID: 1060657086}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LKnee
   m_TagString: LKnee
   m_Icon: {fileID: 0}
@@ -974,7 +974,7 @@ GameObject:
   - component: {fileID: 1359404844}
   - component: {fileID: 1359404842}
   - component: {fileID: 1359404843}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LShin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1033,7 +1033,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1359404841}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1115,7 +1115,7 @@ Transform:
   m_LocalScale: {x: 0.18356955, y: 0.22636026, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1484325228
 GameObject:
@@ -1130,7 +1130,7 @@ GameObject:
   - component: {fileID: 1484325230}
   - component: {fileID: 1484325232}
   - component: {fileID: 1484325233}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RShin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1158,7 +1158,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1484325228}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1286,7 +1286,7 @@ GameObject:
   - component: {fileID: 1549134802}
   - component: {fileID: 1549134800}
   - component: {fileID: 1549134801}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LQuad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1345,7 +1345,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1549134799}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1428,7 +1428,7 @@ Transform:
   m_Children:
   - {fileID: 1060657083}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1603066355
 GameObject:
@@ -1442,7 +1442,7 @@ GameObject:
   - component: {fileID: 1603066358}
   - component: {fileID: 1603066357}
   - component: {fileID: 1603066359}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RKnee
   m_TagString: RKnee
   m_Icon: {fileID: 0}
@@ -1566,7 +1566,7 @@ GameObject:
   - component: {fileID: 1634189001}
   - component: {fileID: 1634189003}
   - component: {fileID: 1634189004}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1594,7 +1594,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1634188999}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1711,7 +1711,7 @@ GameObject:
   - component: {fileID: 1765130664}
   - component: {fileID: 1765130666}
   - component: {fileID: 1765130667}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RFoot
   m_TagString: RFoot
   m_Icon: {fileID: 0}
