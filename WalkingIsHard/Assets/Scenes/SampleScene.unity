@@ -624,9 +624,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ada390a65e064045ba4367d174990ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 519420032}
+  target: {fileID: 1634189000}
   smoothSpeed: 0.125
-  offset: {x: 0, y: 0, z: 0}
+  offset: {x: 0, y: 0, z: -1}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
