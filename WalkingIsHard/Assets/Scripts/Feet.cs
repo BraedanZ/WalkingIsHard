@@ -41,7 +41,6 @@ public class Feet : MonoBehaviour
         float verticalInput = Input.GetAxisRaw("Vertical");
         activeKnee.AddForce(activeKnee.transform.right * verticalInput * kneeSpeed);
 
-        Debug.Log(verticalInput);
         // Vector2 movement = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
 
         // activeFoot.AddForce(movement * speed);
